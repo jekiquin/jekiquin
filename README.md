@@ -1,6 +1,12 @@
 # 💫 About Me:
 
-I'm a Full Stack Developer focusing on Front End Development. <br><br>My main language is JavaScript/TypeScript but I'm always open to learn other things.<br><br>I'm passionate about coding because of how it constantly grows. I love facing new challenges and the all the struggles that come with it.<br>
+I'm a Full Stack Developer focusing on Front End Development.
+
+My main language is JavaScript/TypeScript but I'm always open to learn other things.
+
+I'm passionate about coding because of how it constantly grows. I love facing new challenges and the all the struggles that come with it.
+
+Checkout my [portfolio](https://jerickiquin2023.onredner.com).
 
 ## 🌐 Socials:
 
