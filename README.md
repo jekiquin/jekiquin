@@ -11,6 +11,7 @@ Checkout my [portfolio](https://jerickiquin2023.onredner.com).
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jerick-iquin/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jekiquin-bb)
 
 # 💻 Tech Stack:
 
