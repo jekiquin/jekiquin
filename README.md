@@ -26,14 +26,14 @@ Checkout my [portfolio](https://jerickiquin2023.onredner.com).
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=jekiquin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jekiquin&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jekiquin&theme=tokyonight&hide_border=false)<br/> 
 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
+<!-- ### 😂 Random Dev Meme
 
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://rm.up.railway.app/" width="512px" /> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
