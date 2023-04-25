@@ -6,7 +6,7 @@ My main language is JavaScript/TypeScript but I'm always open to learn other thi
 
 I'm passionate about coding because of how it constantly grows. I love facing new challenges and the all the struggles that come with it.
 
-Checkout my [portfolio](https://jerickiquin2023.onredner.com).
+Checkout my [portfolio](https://jerickiquin2023.onrender.com).
 
 ## 🌐 My Socials:
 
