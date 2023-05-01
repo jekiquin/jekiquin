@@ -1,10 +1,8 @@
 # 💫 Call me Jek
 
-I'm a Full Stack Developer focusing on Front End Development.
+As a Full Stack Developer specializing in Front End Development, I'm constantly in awe of the ever-evolving world of programming. With a deep understanding of JavaScript/TypeScript, I'm always eager to expand my horizons and take on new challenges. For me, the thrill of coding lies in its complexity and the satisfaction of overcoming hurdles.
 
-My main language is JavaScript/TypeScript but I'm always open to learn other things.
-
-I'm passionate about coding because of how it constantly grows. I love facing new challenges and the all the struggles that come with it.
+But I'm not all about programming! Outside of work, I love spending time outdoors playing basketball and taking leisurely strolls with my furry companion and my significant other.
 
 Checkout my [portfolio](https://jerickiquin2023.onrender.com).
 
