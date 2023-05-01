@@ -2,8 +2,8 @@
 
 As a Full Stack Developer specializing in Front End Development, I'm constantly in awe of the ever-evolving world of programming. With a deep understanding of JavaScript/TypeScript, I'm always eager to expand my horizons and take on new challenges. For me, the thrill of coding lies in its complexity and the satisfaction of overcoming hurdles.
 
-<div style="width: 100%; display: flex; justify-content: center">
-    <img src="Fam.JPG" alt="Me and the fam" height="200px"/>
+<div align="center">
+    <img src="Fam.JPG" alt="Me and the fam" height="200px" align="center"/>
 </div>
 
 But I'm not all about programming! Outside of work, I love spending time outdoors playing basketball and taking leisurely strolls with my furry companion and my significant other.
@@ -27,14 +27,16 @@ Checkout my [portfolio](https://jerickiquin2023.onrender.com).
 
 ## 📊 GitHub Stats:
 
-<div style="width: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 1rem">
+<div align=center>
     <img src="https://github-readme-stats.vercel.app/api?username=jekiquin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="My Stats" />
+</div>
+<div align=center>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jekiquin&theme=tokyonight&hide_border=false" alt="Other Stats" />
 </div>
 
 ### ✍️ Random Dev Quote
 
-<div style="width: 100%; display: flex; justify-content: center">
+<div align=center>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote" />
 </div>
 
