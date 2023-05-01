@@ -8,7 +8,7 @@ As a Full Stack Developer specializing in Front End Development, I'm constantly 
 
 But I'm not all about programming! Outside of work, I love spending time outdoors playing basketball and taking leisurely strolls with my furry companion and my significant other.
 
-Checkout my [portfolio](https://jerickiquin2023.onrender.com).
+Checkout my most current [portfolio](https://jerickiquin2023.onrender.com).
 
 ## 🌐 My Socials:
 
