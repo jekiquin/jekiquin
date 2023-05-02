@@ -3,7 +3,9 @@
 As a Full Stack Developer specializing in Front End Development, I'm constantly in awe of the ever-evolving world of programming. With a deep understanding of JavaScript/TypeScript, I'm always eager to expand my horizons and take on new challenges. For me, the thrill of coding lies in its complexity and the satisfaction of overcoming hurdles.
 
 <div align="center">
-    <img src="Fam.JPG" alt="Me and the fam" height="200px" align="center"/>
+    <img src="MooseSnoot.JPG" alt="Moosey Snoot" height="300px" />
+    <img src="Fam.JPG" alt="Me and the fam" height="300px" />
+    <img src="Moose.JPG" alt="Moosey" height="300px" />
 </div>
 
 But I'm not all about programming! Outside of work, I love spending time outdoors playing basketball and taking leisurely strolls with my furry companion and my significant other.
