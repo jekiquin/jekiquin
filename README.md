@@ -29,7 +29,7 @@ Checkout my most current [portfolio](https://jerickiquin2023.onrender.com).
             <h3>TechCave</h3>
         </td>
         <td width="50%" valign="top" align="center">
-            <h3>TechCave</h3>
+            <h3>Ecovers2</h3>
         </td>
     </tr>
     <tr>
