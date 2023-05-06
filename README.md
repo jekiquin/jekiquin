@@ -32,11 +32,11 @@ Checkout my most current [portfolio](https://jerickiquin2023.onrender.com).
             <h3>Ecovers2</h3>
         </td>
     </tr>
-    <tr valign="top">
-        <td width="50%" va align="center">
+    <tr valign="center">
+        <td width="50%" align="center">
             <img src="techcave.png"/>
         </td>
-        <td width="50%" va align="center">
+        <td width="50%" align="center">
             <img src="ecoverse.png"/>
         </td>
     </tr>
