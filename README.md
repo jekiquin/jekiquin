@@ -24,53 +24,53 @@ Checkout my most current [portfolio](https://jerickiquin2023.onrender.com).
 ⏸️ Personal projects (currently on pause)
 
 <table bordercolor="#66b2b2" width="100%">
-    <tr>
-        <td width="50%" valign="top" align="center">
+    <tr valign="top">
+        <td width="50%" align="center">
             <h3>TechCave</h3>
         </td>
-        <td width="50%" valign="top" align="center">
+        <td width="50%" align="center">
             <h3>Ecovers2</h3>
         </td>
     </tr>
-    <tr>
-        <td width="50%" valign="center" align="center">
+    <tr valign="top">
+        <td width="50%" va align="center">
             <img src="techcave.png"/>
         </td>
-        <td width="50%" valign="center" align="center">
+        <td width="50%" va align="center">
             <img src="ecoverse.png"/>
         </td>
     </tr>
-    <tr>
-        <td width="50%" valign="top" align="center">
+    <tr valign="top">
+        <td width="50%" align="center">
             <a href="https://github.com/BboxDevs/techcave-be" target="_blank">
                 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
             </a> 
         </td>
-        <td width="50%" valign="top" align="center">
+        <td width="50%" align="center">
             <a href="https://github.com/jekiquin/ecoverse2-client" target="_blank">
                 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
             </a>
         </td>
     </tr>
-    <tr>
-        <td width="50%" valign="top">
+    <tr valign="top">
+        <td width="50%">
             <p>
                 <strong>Stack:</strong> Express, Typescript, GraphQL, Apollo Server, Prisma, Postgres
             </p>
         </td>
-        <td width="50%" valign="top">
+        <td width="50%">
             <p>
                 <strong>Stack:</strong> React, Tailwind, Mapbox, Typescript
             </p>
         </td>
     </tr>
-    <tr>
-        <td width="50%" valign="top">
+    <tr valign="top">
+        <td width="50%">
             <p>
                 Techcave is a job matching platform designed for job seekers in the tech industry, providing them with a direct connection to potential employers. The platform is designed to bridge the gap in the hiring process by enabling companies to see a pool of talented candidates and providing job seekers with a way to connect with potential employers. Techcave uses AI algorithms to rank candidates based on their skills, experience, and other factors to help employers quickly find the top talent they need.
             </p>
         </td>
-        <td width="50%" valign="top">
+        <td width="50%">
             <p>
                 Ecoverse is a groundbreaking sustainability project that aims to reduce the impact of natural resource extraction by empowering manufacturers to give back to the communities affected by their operations.
             </p>
