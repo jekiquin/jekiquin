@@ -21,6 +21,69 @@ Checkout my most current [portfolio](https://jerickiquin2023.onrender.com).
 
 🔭 I’m currently working on a contract job building a small service implementing Solana Activities
 
+🔥 Portfolio
+
+<table bordercolor="#66b2b2" width="100%">
+    <tr valign="top">
+        <td width="50%" align="center">
+            <h3>Portfolio 2023</h3>
+        </td>
+        <td width="50%" align="center">
+            <h3>Porfolio 2022</h3>
+        </td>
+    </tr>
+    <tr valign="center">
+        <td width="50%" align="center">
+            <img src="portfolio2.png"/>
+        </td>
+        <td width="50%" align="center">
+            <img src="portfolio.png"/>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="50%" align="center">
+            <a href="https://jerickiquin2023.onrender.com" target="_blank">
+                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+            </a>
+            <a href="https://github.com/jekiquin/portfoliov2" target="_blank">
+                <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+            </a> 
+        </td>
+        <td width="50%" align="center">
+            <a href="https://jerickiquin-2022.onrender.com" target="_blank">
+                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+            </a>
+            <a href="https://github.com/jekiquin/portfolio" target="_blank">
+                <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+            </a>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="50%">
+            <p>
+                <strong>Stack:</strong> HTML, SASS, Javascript, ThreeJS, PhaserJS, Vite
+            </p>
+        </td>
+        <td width="50%">
+            <p>
+                <strong>Stack:</strong> React, SASS, Tailwind
+            </p>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="50%">
+            <p>
+                This is my second portfolio built in 2023. Realizing that I've always used modern frameworks in building web applications and site, I've decided to go back to the basics and build everything in vanilla HTML, CSS and JavaScript
+            </p>
+        </td>
+        <td width="50%">
+            <p>
+                This is my first portfolio built in 2022 after graduating in BrainStation.
+            </p>
+        </td>
+    </tr>
+</table>
+
 ⏸️ Personal projects (currently on pause)
 
 <table bordercolor="#66b2b2" width="100%">
@@ -81,66 +144,7 @@ Checkout my most current [portfolio](https://jerickiquin2023.onrender.com).
     </tr>
 </table>
 
-<table bordercolor="#66b2b2" width="100%">
-    <tr valign="top">
-        <td width="50%" align="center">
-            <h3>Portfolio 2023</h3>
-        </td>
-        <td width="50%" align="center">
-            <h3>Porfolio 2022</h3>
-        </td>
-    </tr>
-    <tr valign="center">
-        <td width="50%" align="center">
-            <img src="portfolio2.png"/>
-        </td>
-        <td width="50%" align="center">
-            <img src="portfolio.png"/>
-        </td>
-    </tr>
-    <tr valign="top">
-        <td width="50%" align="center">
-            <a href="https://jerickiquin2023.onrender.com" target="_blank">
-                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
-            </a>
-            <a href="https://github.com/jekiquin/portfoliov2" target="_blank">
-                <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-            </a> 
-        </td>
-        <td width="50%" align="center">
-            <a href="https://jerickiquin-2022.onrender.com target="_blank">
-                <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
-            </a>
-            <a href="https://github.com/jekiquin/portfolio" target="_blank">
-                <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-            </a>
-        </td>
-    </tr>
-    <tr valign="top">
-        <td width="50%">
-            <p>
-                <strong>Stack:</strong> HTML, SASS, Javascript, ThreeJS, PhaserJS, Vite
-            </p>
-        </td>
-        <td width="50%">
-            <p>
-                <strong>Stack:</strong> React, SASS, Tailwind
-            </p>
-        </td>
-    </tr>
-    <tr valign="top">
-        <td width="50%">
-            <p>
-                This is my second portfolio built in 2023. Realizing that I've always used modern frameworks in building web applications and site, I've decided to go back to the basics and build everything in vanilla HTML, CSS and JavaScript
-            </p>
-        </td>
-        <td width="50%">
-            <p>
-                This is my first portfolio built in 2022 after graduating in BrainStation.
-            </p>
-        </td>
-    </tr>
-</table>
+
 
 
 ## 💻 Tech Stack:
