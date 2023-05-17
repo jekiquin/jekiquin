@@ -10,7 +10,7 @@ As a Full Stack Developer specializing in Front End Development, I'm constantly 
 
 But I'm not all about programming! Outside of work, I love spending time outdoors playing basketball and taking leisurely strolls with my furry companion and my significant other.
 
-Checkout my most current [portfolio](https://jerickiquin2023.onrender.com).
+Checkout my most current [portfolio](https://jekscripts.dev/).
 
 Are you hiring? Checkout my [resume](https://jekiquin.github.io/resume/Jerick-Iquin.pdf)
 
@@ -104,7 +104,7 @@ Are you hiring? Checkout my [resume](https://jekiquin.github.io/resume/Jerick-Iq
     </tr>
     <tr valign="top">
         <td width="50%" align="center">
-            <a href="https://jerickiquin2023.onrender.com" target="_blank">
+            <a href="https://jekscripts.dev/" target="_blank">
                 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
             </a>
             <a href="https://github.com/jekiquin/portfoliov2" target="_blank">
@@ -112,7 +112,7 @@ Are you hiring? Checkout my [resume](https://jekiquin.github.io/resume/Jerick-Iq
             </a> 
         </td>
         <td width="50%" align="center">
-            <a href="https://jerickiquin-2022.onrender.com" target="_blank">
+            <a href="https://2022.jekscripts.dev/" target="_blank">
                 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
             </a>
             <a href="https://github.com/jekiquin/portfolio" target="_blank">
