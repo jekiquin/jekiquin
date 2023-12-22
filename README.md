@@ -12,8 +12,6 @@ But I'm not all about programming! Outside of work, I love spending time outdoor
 
 Checkout my most current [portfolio](https://jekscripts.dev/).
 
-Are you hiring? Checkout my [resume](https://jekiquin.github.io/resume/Jerick-Iquin.pdf)
-
 ## 🌐 My Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jerick-iquin/)
